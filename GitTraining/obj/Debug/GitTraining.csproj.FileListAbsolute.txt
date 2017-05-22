@@ -1,1 +1,2 @@
 E:\cours svn\Projets\GitTraining\GitTraining\bin\Debug\GitTraining.exe.config
+E:\Git Practice\gittraining\GitTraining\bin\Debug\GitTraining.exe.config
